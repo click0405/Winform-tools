@@ -1,0 +1,11 @@
+E:\Winform 文件夹\监控软件模板\监控软件模板\bin\Debug\简单监控软件模板.exe.config
+E:\Winform 文件夹\监控软件模板\监控软件模板\bin\Debug\简单监控软件模板.exe
+E:\Winform 文件夹\监控软件模板\监控软件模板\bin\Debug\简单监控软件模板.pdb
+E:\Winform 文件夹\监控软件模板\监控软件模板\bin\Debug\JJCommon.dll
+E:\Winform 文件夹\监控软件模板\监控软件模板\bin\Debug\JJControl.dll
+E:\Winform 文件夹\监控软件模板\监控软件模板\obj\x86\Debug\简单监控软件模板.csprojResolveAssemblyReference.cache
+E:\Winform 文件夹\监控软件模板\监控软件模板\obj\x86\Debug\Orderbook.Form1.resources
+E:\Winform 文件夹\监控软件模板\监控软件模板\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Winform 文件夹\监控软件模板\监控软件模板\obj\x86\Debug\简单监控软件模板.csproj.GenerateResource.Cache
+E:\Winform 文件夹\监控软件模板\监控软件模板\obj\x86\Debug\简单监控软件模板.exe
+E:\Winform 文件夹\监控软件模板\监控软件模板\obj\x86\Debug\简单监控软件模板.pdb

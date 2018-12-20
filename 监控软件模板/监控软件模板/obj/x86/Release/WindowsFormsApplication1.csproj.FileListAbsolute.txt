@@ -1,0 +1,13 @@
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Orderbook.Form1.resources
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\JJCommon.dll
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\JJControl.dll
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+E:\新建文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

@@ -1,0 +1,10 @@
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\JJCommon.dll
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\JJControl.dll
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Orderbook.Form1.resources
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\简单监控软件模板.csproj.GenerateResource.Cache
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\简单监控软件模板.exe.config
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\简单监控软件模板.exe
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\简单监控软件模板.pdb
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\简单监控软件模板.exe
+E:\Winform 文件夹\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\简单监控软件模板.pdb
